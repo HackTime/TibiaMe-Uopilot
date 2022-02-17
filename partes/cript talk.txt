@@ -1,0 +1,13 @@
+move 25, 334 abs
+kleft 25, 334 abs
+kleft 352, 308 abs
+:1
+wait 600
+send oi
+wait 600
+send iai, estou testando
+kleft 491, 216 abs
+wait 5000
+
+goto 1
+wait 10000

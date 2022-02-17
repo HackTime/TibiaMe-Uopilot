@@ -1,0 +1,2422 @@
+:1
+if 114, 175 10083839
+wait 20000
+end_if
+if 84, 141 65280
+wait 20000
+end_if
+if 64, 139 65280
+wait 1000
+end_if
+if 112, 246 11776948
+wait 20000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 200, 162 4473924  // life
+wait 60000
+end_if
+if 210, 187 4473924  // mana
+wait 20000
+end_if
+//1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//2
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//3
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//4
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//5
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//6
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//7
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//8
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//9
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//10
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//11
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//12
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//13
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//14
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//15
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//16
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//17
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//18
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//19
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//20
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//21
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//22
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//23
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//24
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//25
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//26
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//27
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//28
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//29
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//30
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//31
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//32
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//33
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//2
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//3
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//4
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//5
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//6
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//7
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//8
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//9
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//10
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//11
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//12
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//13
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//14
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//15
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//49
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//50
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//51
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//52
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//53
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//54
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//55
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//56
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//57
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//58
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//59
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//60
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//61
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//62
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//63
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//64
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+//65
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//66
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//67
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//68
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//69
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+send down 500
+goto 1
+//70
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//71
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//72
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+send left 500
+goto 1
+//73
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+send up 500
+goto 1
+//74
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1
+send right 500
+goto 1

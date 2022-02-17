@@ -1,0 +1,60 @@
+if 167, 116 15395562 // mob
+pause_script 18
+pause_script 30
+wait 10000
+resume_script 18
+resume_script 30
+end_if
+if 147, 116 15395562 // mob
+pause_script 18
+pause_script 30
+wait 10000
+resume_script 18
+resume_script 30
+end_if
+if 127, 116 15395562 // mob
+pause_script 18
+pause_script 30
+wait 10000
+resume_script 18
+resume_script 30
+end_if
+if 107, 116 15395562 // mob
+pause_script 18
+pause_script 30
+wait 10000
+resume_script 18
+resume_script 30
+end_if
+if 87, 116 15395562 // mob
+pause_script 18
+pause_script 30
+wait 10000
+resume_script 18
+resume_script 30
+end_if
+if 67, 116 15395562 // mob
+pause_script 18
+pause_script 30
+wait 10000
+resume_script 18
+resume_script 30
+end_if
+if 47, 116 15395562 // mob
+pause_script 18
+pause_script 30
+wait 10000
+resume_script 18
+resume_script 30
+end_if
+
+
+
+
+
+
+
+
+
+
+

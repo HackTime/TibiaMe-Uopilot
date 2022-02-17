@@ -1,0 +1,1642 @@
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 5000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+wait 5000
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+wait 7000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+wait 7000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+wait 3000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+wait 3000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+wait 5000
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+wait 5000
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+wait 5000
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+send up 800
+send up 800
+send up 800
+wait 5000
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+wait 5000
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+wait 5000
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+wait 5000
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+wait 5000
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+wait 5000
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+wait 5000
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+wait 5000
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+wait 5000
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+wait 5000
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+wait 5000
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+wait 5000
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+wait 5000
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+wait 10000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+wait 5000
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+wait 5000
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+wait 10000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+send down 800
+if 193, 181 3726408
+wait 10000
+end_if
+send down 800
+send down 800
+send down 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+send left 800
+if 193, 181 3726408
+wait 10000
+end_if
+send left 800
+send left 800
+send left 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+send up 800
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+if 193, 181 3726408
+wait 10000
+end_if
+send up 800
+send up 800
+send up 800
+send up 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+send right 800
+wait 5000
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+wait 5000
+send right 800
+send right 800
+send right 800
+if 193, 181 3726408
+wait 10000
+end_if
+send right 800
+send right 800
+send right 800
+wait 5000

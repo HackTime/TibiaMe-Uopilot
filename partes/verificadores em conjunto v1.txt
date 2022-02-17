@@ -1,0 +1,84 @@
+if 200, 162 4473924
+wait 60000
+end_if
+if 200, 162 4473924
+wait 60000
+end_if
+if 200, 162 4473924
+wait 60000
+end_if
+if 200, 162 4473924
+wait 60000
+end_if
+if 200, 162 4473924
+wait 60000
+end_if
+if 200, 162 4473924
+wait 60000
+end_if
+if 210, 187 4473924
+wait 20000
+end_if
+if 210, 187 4473924
+wait 20000
+end_if
+if 210, 187 4473924
+wait 20000
+end_if
+if 210, 187 4473924
+wait 20000
+end_if
+if 210, 187 4473924
+wait 20000
+end_if
+if 210, 187 4473924
+wait 20000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if

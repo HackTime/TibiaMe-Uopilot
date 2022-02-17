@@ -1,0 +1,70 @@
+down 7 2 oxi
+left 4 2 oxi
+up 8   2 oxi
+right 11 oxi
+up 1   1 oxi
+right 72 oxi
+down 1 1 oxi
+right 11 oxi
+down 183 oxi
+right 31 oxi
+up 13  3 oxi
+left 214 oxi
+right 265oxi
+down 316 oxi
+right 11 oxi
+down 62  oxi
+right 123oxi
+up 102   oxi
+left 52  oxi
+up 62    oxi
+left 11  oxi
+up 41    oxi
+left 31  oxi
+doen 72  oxi
+left 52   xi
+up 62     xi
+left 102  xi
+up 62     xi
+right 21  xi
+down 72   xi 
+left 41   xi
+up 82     xi
+right 11  xi
+up 11     xi
+right 72  xi
+down 11   xi
+right 11  xi
+down 183  xi
+right 31  xi
+up 133    xi
+left 214  xi
+right 265 xi
+down 316  xi
+right 11  xi
+up 92     xi
+right 204 xi
+down 143  xi
+right 21  xi
+down 52   xi
+left 194  xi
+up 143    xi
+left 62   xi
+down 102  xi
+left 21   xi
+up 102    xi
+right 102 xi
+up 31     xi
+right 102 xi
+down 133  xi
+right 31  xi
+up 102    xi
+left 102  xi
+up 31     xi
+left 143  xi
+down 82   xi
+left 31   xi
+up 123    xi
+left 62   xi
+up 72     xi
+right 21  xi

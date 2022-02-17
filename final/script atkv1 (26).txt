@@ -1,0 +1,22 @@
+pause_script 18
+pause_script 22
+send 2 300
+move 80, 540 abs
+kleft 80, 540 abs
+resume_script 18
+resume_script 22
+end_if
+:1
+if 50, 245 2105599
+wait 25000
+pause_script 18 23
+send 2
+move 80, 540 abs
+kleft 80, 540 abs
+resume_script 18 23
+end_if
+goto 1
+
+
+if 191, 173 1746983
+

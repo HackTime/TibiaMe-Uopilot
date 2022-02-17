@@ -1,0 +1,102 @@
+:2
+if 167, 236 15395562 // mob
+goto 1
+end_if
+if 147, 236 15395562 // mob
+goto 1
+end_if
+if 127, 236 15395562 // mob
+goto 1
+end_if
+if 107, 236 15395562 // mob
+goto 1
+end_if
+if 87, 236 15395562 // mob
+goto 1
+end_if
+if 67, 236 15395562 // mob
+goto 1
+end_if
+if 47, 236 15395562 // mob
+goto 1
+end_if
+
+if 167, 196 15395562 // mob
+goto 1
+end_if
+if 147, 196 15395562 // mob
+goto 1
+end_if
+if 127, 196 15395562 // mob
+goto 1
+end_if
+if 107, 196 15395562 // mob
+goto 1
+end_if
+if 87, 196 15395562 // mob
+goto 1
+end_if
+if 67, 196 15395562 // mob
+goto 1
+end_if
+if 47, 196 15395562 // mob
+goto 1
+end_if
+
+if 167, 216 15395562 // mob
+goto 1
+end_if
+if 147, 216 15395562 // mob
+goto 1
+end_if
+if 127, 216 15395562 // mob
+goto 1
+end_if
+if 107, 216 15395562 // mob
+goto 1
+end_if
+if 87, 216 15395562 // mob
+goto 1
+end_if
+if 67, 216 15395562 // mob
+goto 1
+end_if
+if 47, 216 15395562 // mob
+goto 1
+end_if
+
+if 167, 156 15395562 // mob
+goto 1
+end_if
+if 147, 156 15395562 // mob
+goto 1
+end_if
+if 127, 156 15395562 // mob
+goto 1
+end_if
+if 107, 156 15395562 // mob
+goto 1
+end_if
+if 87, 156 15395562 // mob
+goto 1
+end_if
+if 67, 156 15395562 // mob
+goto 1
+end_if
+if 47, 156 15395562 // mob
+goto 1
+end_if
+
+goto 2
+:1
+pause_script 18
+pause_script 30
+pause_script 36
+pause_script 41
+log hour min sec
+wait 18000
+resume_script 18
+resume_script 30
+resume_script 36
+resume_script 41
+end_if

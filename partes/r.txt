@@ -1,0 +1,7 @@
+send right 500
+send right 500
+send right 500
+send right 500
+send right 500
+send right 500
+send right 500

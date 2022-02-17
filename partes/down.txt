@@ -1,0 +1,119 @@
+if 114, 175 10083839
+wait 20000
+end_if
+if 84, 141 65280
+wait 20000
+end_if
+if 64, 139 65280
+wait 1000
+end_if
+if 112, 246 11776948
+wait 20000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+send down 400
+
+if 114, 175 10083839
+wait 20000
+end_if
+if 84, 141 65280
+wait 20000
+end_if
+if 64, 139 65280
+wait 1000
+end_if
+if 112, 246 11776948
+wait 20000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+send down 400 
+
+if 114, 175 10083839
+wait 20000
+end_if
+if 84, 141 65280
+wait 20000
+end_if
+if 64, 139 65280
+wait 1000
+end_if
+if 112, 246 11776948
+wait 20000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+send down 400 
+
+if 114, 175 10083839
+wait 20000
+end_if
+if 84, 141 65280
+wait 20000
+end_if
+if 64, 139 65280
+wait 1000
+end_if
+if 112, 246 11776948
+wait 20000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+send down 400 
+
+if 114, 175 10083839
+wait 20000
+end_if
+if 84, 141 65280
+wait 20000
+end_if
+if 64, 139 65280
+wait 1000
+end_if
+if 112, 246 11776948
+wait 20000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+send down 400 
+
+if 114, 175 10083839
+wait 20000
+end_if
+if 84, 141 65280
+wait 20000
+end_if
+if 64, 139 65280
+wait 1000
+end_if
+if 112, 246 11776948
+wait 20000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+send down 400 
+
+if 114, 175 10083839
+wait 20000
+end_if
+if 84, 141 65280
+wait 20000
+end_if
+if 64, 139 65280
+wait 1000
+end_if
+if 112, 246 11776948
+wait 20000
+end_if
+if 192, 197 2475828
+wait 10000
+end_if
+send down 400 
+

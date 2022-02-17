@@ -1,0 +1,81 @@
+identificador de mob + skill atk e def
+
+if 194, 163 5170268
+pause_script 18
+send 2
+move 80, 540 abs
+kleft 80, 540 abs
+wait 5000
+send 2
+move 179, 543 abs
+kleft 179, 543 abs
+wait 5000
+resume_script 18
+end_if
+
+skill atk
+
+send 2
+move 80, 540 abs
+kleft 80, 540 abs
+
+skill def
+
+send 2
+move 179, 543 abs
+kleft 179, 543 abs
+
+deslogar
+
+wait 2000
+move 133, 425 abs
+wait 200
+kleft 132, 427 abs
+send up
+kleft 132, 427 abs
+move 132, 427 abs
+kleft 132, 427 abs
+
+logar
+
+send down
+move 132, 427 abs
+kleft 132, 427 abs
+move 132, 427 abs
+kleft 132, 427 abs
+send 1
+send 1
+send 1
+send 1
+send 1
+send 2
+send 2
+send 2
+send 2
+send 3
+send 3
+send 3
+send 3
+send 6
+send 2
+send 7
+send 7
+send 7
+send 2
+send 2
+send 2
+send 6
+send 6
+send 6
+send 7
+send 7
+send 7
+send 7
+send 0
+send 0
+send down
+send down
+send down
+kleft 132, 427 abs
+wait 2000
+kleft 132, 427 abs
