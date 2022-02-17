@@ -1,0 +1,82 @@
+goto 1
+
+if 54, 244 5939947  // atk
+pause_script 18
+pause_script 30
+send 2
+move 80, 540 abs
+kleft 80, 540 abs
+resume_script 18
+resume_script 30
+end_if
+
+
+if 174, 244 5973773  // def
+pause_script 18
+pause_script 30
+send 2
+move 179, 543 abs
+kleft 179, 543 abs
+resume_script 18
+resume_script 30
+end_if
+
+
+if 200, 173 4473924  // life critico
+pause_script 18
+pause_script 30
+move 133, 425 abs
+wait 500
+kleft 132, 427 abs
+send up 500
+kleft 132, 427 abs
+move 132, 427 abs
+kleft 132, 427 abs
+resume_script 18
+resume_script 30
+end_if
+
+:1
+if 192, 197 2475828 // mob
+pause_script 18
+pause_script 30
+wait 10000
+resume_script 18
+resume_script 30
+end_if
+
+
+if 200, 162 4473924  // life
+pause_script 18
+pause_script 30
+wait 60000
+resume_script 18
+resume_script 30
+end_if
+
+if 114, 175 10083839  //lag
+pause_script 18
+pause_script 30
+wait 10000
+resume_script 18
+resume_script 30
+end_if
+
+
+if 84, 141 65280  //lag
+pause_script 18
+pause_script 30
+wait 10000
+resume_script 18
+resume_script 30
+end_if
+
+
+if 64, 139 65280  //lag
+pause_script 18
+pause_script 30
+wait 10000
+resume_script 18
+resume_script 30
+end_if
+

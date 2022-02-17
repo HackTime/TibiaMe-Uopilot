@@ -1,0 +1,2 @@
+send up
+wait 500

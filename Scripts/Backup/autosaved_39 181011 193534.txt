@@ -1,0 +1,4 @@
+send down
+wait 500
+send up
+wait 500

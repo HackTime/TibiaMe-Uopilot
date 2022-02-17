@@ -1,0 +1,132 @@
+wait 1000
+
+
+send down
+move 132, 427 abs
+kleft 132, 427 abs
+move 132, 427 abs
+kleft 132, 427 abs
+send 1 00
+send 1 00
+send 1 00
+send 1 0
+send 1 00
+send 2 00
+send 2 00
+send 2 00
+send 2 00
+send 3
+send 3 00
+send 3 00
+send 3 00
+send 6 00
+send 2 00
+send 7 00
+send 7 00
+send 7 0
+send 2 00
+send 2 00
+send 2 00
+send 6 00
+send 6 00
+send 6 00
+send 7 00
+send 7 00
+send 7 00
+send 7 00
+send 0 00
+send 0 00
+send down 200
+send down 200
+send down 200
+kleft 132, 427 abs
+wait 6000
+kleft 132, 427 abs
+wait 6000
+
+
+start_script 36
+wait 1000
+start_script 38
+wait 25000
+start_script 18
+wait 3000
+
+
+
+
+:1
+wait 7200000
+
+
+pause_script 18
+stop_script 36
+stop_script 38
+
+wait 1000
+
+move 133, 425 abs
+kleft 132, 427 abs
+wait 400
+send up 500
+kleft 132, 427 abs
+move 132, 427 abs
+kleft 132, 427 abs
+
+
+wait 14400000
+
+
+send down
+move 132, 427 abs
+kleft 132, 427 abs
+move 132, 427 abs
+kleft 132, 427 abs
+send 1 00
+send 1 00
+send 1 00
+send 1 0
+send 1 00
+send 2 00
+send 2 00
+send 2 00
+send 2 00
+send 3
+send 3 00
+send 3 00
+send 3 00
+send 6 00
+send 2 00
+send 7 00
+send 7 00
+send 7 0
+send 2 00
+send 2 00
+send 2 00
+send 6 00
+send 6 00
+send 6 00
+send 7 00
+send 7 00
+send 7 00
+send 7 00
+send 0 00
+send 0 00
+send down 500
+send down 500
+send down 500
+kleft 132, 427 abs
+wait 6000
+kleft 132, 427 abs
+wait 6000
+
+
+start_script 36
+wait 1000
+start_script 38
+wait 25000
+start_script 18
+wait 3000
+
+
+goto 1

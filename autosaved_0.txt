@@ -1,0 +1,45 @@
+wait 1000
+
+
+send down
+move 132, 427 abs
+kleft 132, 427 abs
+move 132, 427 abs
+kleft 132, 427 abs
+send 1 00
+send 1 00
+send 1 00
+send 1 0
+send 1 00
+send 2 00
+send 2 00
+send 2 00
+send 2 00
+send 3
+send 3 00
+send 3 00
+send 3 00
+send 6 00
+send 2 00
+send 7 00
+send 7 00
+send 7 0
+send 2 00
+send 2 00
+send 2 00
+send 6 00
+send 6 00
+send 6 00
+send 7 00
+send 7 00
+send 7 00
+send 7 00
+send 0 00
+send 0 00
+send down 200
+send down 200
+send down 200
+kleft 132, 427 abs
+wait 6000
+kleft 132, 427 abs
+wait 6000
